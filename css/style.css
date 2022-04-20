@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'GT America Regular';
-    src: url("fonts/FontsFree-Net-GT-America-Regular-1.ttf") format("opentype");
+    src: url("../fonts/FontsFree-Net-GT-America-Regular-1.ttf") format("opentype");
 }
 
 @font-face {
     font-family: 'Domaine Display Narrow';
-    src: url("fonts/DomaineDispNar-Regular.otf") format("opentype");
+    src: url("../fonts/DomaineDispNar-Regular.otf") format("opentype");
 }
 
 * {
@@ -182,7 +182,7 @@ h1 {
 
 /* Section-three */
 .section-three ol {
-    list-style-image: url('images/image_73.png');
+    list-style-image: url('../images/image_73.png');
 }
 
 .section-three {
